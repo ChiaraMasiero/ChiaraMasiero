@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiara Masiero</h1>
 <h3 align="center">I strive to turn data into actionable insight</h3>
 
-- 💬 Ask me about **Applied Machine Learning (Industry 4.0, Digital Marketing)**
+💬 Ask me about **Applied Machine Learning (Industry 4.0, Digital Marketing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
